@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程产品经理"
+  short_description: "把课程、知识库与学习路径打磨成可学、可验收的课程产品"
+  default_prompt: "使用 $course-product-manager 设计或审查课程及课程型知识库，分层检查课程结构、学习路径、内容解释、案例、交付与真实学员验证。"
