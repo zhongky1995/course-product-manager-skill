@@ -1,0 +1,36 @@
+{
+  "repositoryBaseCommit": "03ea050102793a200846f960f98fa8b1a2f1bf6b",
+  "effectiveBefore": {
+    "SKILL.md": "adf9646c5909ae8c16a6eeec094e61f0204e70a2cc751284fec0294ca6c1e5ed",
+    "references/expression-review.md": "37ea4df41ee5300f5c80f2b248e89a5342921e48f1749d630fbd867bc9d0266c",
+    "references/explanation-development.md": "04de2067fb183c42df66eb1b6020de9ff32558c0170b06d97d8eb420fd882bfe",
+    "references/course-knowledgebase-audit.md": "70b590d4b9ed1c026a0ff8e60b03a1ab89fc2746ebf72950bbc0367fef953929",
+    "references/spoken-lesson.md": "c13d7bab945c83f1f14359c7b5b168a57d754630610870f5c52e49938bad3bbf",
+    "references/course-product-design.md": "99a68c728b43fcb58f1701c39256f8e27324f1b46c3c1be407dbf022da408b0e",
+    "references/expression-order-evidence.md": "270b41754a464b8d93bb19b9acca4f999dfbe52d8cc3dc86b1855db394f1ec57",
+    "references/long-course-execution.md": "10cbb50516e9fa4976607590b3354449859e379181bf4b0a5b3a5f4937311a37",
+    "agents/openai.yaml": "96912bc8cc0a27e125e54897dd8e748fbb92ee039f44d56e03a5eae1440eb981"
+  },
+  "candidateRounds1to6": {
+    "SKILL.md": "09ce85a31314d6688f99b206ba3e96b92c4241f2f8d2c7c1fb326988dc8141dc",
+    "references/expression-review.md": "37ea4df41ee5300f5c80f2b248e89a5342921e48f1749d630fbd867bc9d0266c",
+    "references/explanation-development.md": "13ab42b5303a5582372f7f622c47a1cbba65c17db91b7b059014a42f03247452",
+    "references/course-knowledgebase-audit.md": "9a3c5cbe4b39d2d029fa5f14387ee8c04418ab5fb59ee138c4781e969fd9a4a5",
+    "references/spoken-lesson.md": "c13d7bab945c83f1f14359c7b5b168a57d754630610870f5c52e49938bad3bbf",
+    "references/course-product-design.md": "01ba2cfe43ec510690e20b7a8eea4248ffa726eb0a647804f4b1268fa2449525",
+    "references/expression-order-evidence.md": "270b41754a464b8d93bb19b9acca4f999dfbe52d8cc3dc86b1855db394f1ec57",
+    "references/long-course-execution.md": "10cbb50516e9fa4976607590b3354449859e379181bf4b0a5b3a5f4937311a37",
+    "agents/openai.yaml": "2a54508f87756b48a49f8a2a2fdcf35bf3c7f9b9702278e61d3061f72ce58546"
+  },
+  "finalRound7AndRepair8": {
+    "SKILL.md": "9ee93142dadbb9706c209701e3b58e27d98fd34f6698b31e9f818fd652dd03c9",
+    "references/expression-review.md": "37ea4df41ee5300f5c80f2b248e89a5342921e48f1749d630fbd867bc9d0266c",
+    "references/explanation-development.md": "13ab42b5303a5582372f7f622c47a1cbba65c17db91b7b059014a42f03247452",
+    "references/course-knowledgebase-audit.md": "9a3c5cbe4b39d2d029fa5f14387ee8c04418ab5fb59ee138c4781e969fd9a4a5",
+    "references/spoken-lesson.md": "c13d7bab945c83f1f14359c7b5b168a57d754630610870f5c52e49938bad3bbf",
+    "references/course-product-design.md": "01ba2cfe43ec510690e20b7a8eea4248ffa726eb0a647804f4b1268fa2449525",
+    "references/expression-order-evidence.md": "270b41754a464b8d93bb19b9acca4f999dfbe52d8cc3dc86b1855db394f1ec57",
+    "references/long-course-execution.md": "10cbb50516e9fa4976607590b3354449859e379181bf4b0a5b3a5f4937311a37",
+    "agents/openai.yaml": "2a54508f87756b48a49f8a2a2fdcf35bf3c7f9b9702278e61d3061f72ce58546"
+  }
+}

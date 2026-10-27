@@ -1,0 +1,102 @@
+[
+  {
+    "variant": "before",
+    "rounds": [
+      {
+        "round": 1,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 2,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 3,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 4,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 5,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 6,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 7,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      }
+    ]
+  },
+  {
+    "variant": "after",
+    "rounds": [
+      {
+        "round": 1,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 2,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 3,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 4,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 5,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 6,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 7,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "paired-comparison"
+      },
+      {
+        "round": 8,
+        "model": "gpt-6-astra",
+        "effort": "high",
+        "kind": "diagnosed-repair"
+      }
+    ]
+  }
+]
